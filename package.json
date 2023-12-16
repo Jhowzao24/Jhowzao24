@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "pip": "^0.0.1",
+    "python3": "^0.0.1",
+    "react": "^18.2.0",
+    "react-redux": "^8.1.3"
+  }
+}
